@@ -49,3 +49,5 @@ Temporary Items
 # Dependency directory
 node_modules
 package-lock.json
+
+lua_modules/

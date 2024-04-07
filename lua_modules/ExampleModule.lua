@@ -15,7 +15,7 @@ end
 function p.debug()
 	local output = p.main(mw.getCurrentFrame()
 		:newChild {
-			title = 'Module:LuaModule',
+			title = 'Module:ExampleModule',
 			args = {
                 'arg1',
                 'arg2',
