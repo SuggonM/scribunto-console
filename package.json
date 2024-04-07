@@ -10,7 +10,7 @@
   "main": "scribunto-console.js",
   "scripts": {
     "test": "node example/example.js",
-    "start": "node scribunto-console.js"
+    "start": "node index.js"
   },
   "contributors": [
     {

@@ -39,7 +39,7 @@ module.exports = (function(){
 	}
 	
 	ScribuntoConsole.defaults = {
-		wikiHostName: 'starwars.wikia.com',
+		wikiHostName: 'guardian-tales.fandom.com',
 		wikiAPIPath: '/api.php',
 		stripComments: true
 	};
