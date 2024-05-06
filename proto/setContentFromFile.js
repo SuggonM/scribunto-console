@@ -1,7 +1,7 @@
 
 module.exports = (function(ScribuntoConsole){
-	var fs = require.main.require('fs');
 	
+	var fs = require('fs');
 	ScribuntoConsole.fn.setContentFromFile = function(filePath){
 		var file = fs.readFileSync(filePath, 'utf8');
 		if(file){
